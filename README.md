@@ -1,0 +1,2 @@
+# admin
+rails admin example
