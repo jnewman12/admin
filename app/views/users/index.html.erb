@@ -1,0 +1,7 @@
+<h1>All Posts from Rails Admin</h1>
+
+<% @post.each do |p| %>
+   <%= p.id %>. <br/>
+	<%= p.title %> <br/>
+	<%= p.body %> <br/>
+<% end %>	
