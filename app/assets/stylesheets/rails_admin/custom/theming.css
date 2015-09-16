@@ -1,0 +1,11 @@
+/* custom admin styles */
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+.rails_admin {
+	font-family: 'Montserrat'
+}
+
+.rails_admin nav {
+	background-color: purple;
+}
